@@ -116,6 +116,7 @@ reportWebVitals();
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "framer-motion": "^10.0.0"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
